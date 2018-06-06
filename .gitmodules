@@ -1,9 +1,9 @@
 [submodule "LabView-Client"]
 	path = LabView-Client
-	url = https://github.com/BreD1810/LabView-Client.git
+url=https://github.com/BreD1810/LabView-Client-CampusHack.git
 [submodule "LabView-Server"]
 	path = LabView-Server
-	url = https://github.com/BreD1810/LabView-Server.git
+url=https://github.com/BreD1810/LabView-Server-CampusHack.git
 [submodule "LabView-Webpage"]
 	path = LabView-Webpage
-	url = https://github.com/BreD1810/LabView-Webpage.git
+url=https://github.com/BreD1810/LabView-Webpage-CampusHack.git
